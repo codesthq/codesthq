@@ -1,1 +1,3 @@
-# codesthq
+# The Codest
+
+Custom software development
